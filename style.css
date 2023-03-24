@@ -1,0 +1,30 @@
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+body {
+    font-family: Georgia, Times, serif;
+    color: rgb(6, 0, 128);
+    background-color: #fdfdfd
+}
+h1 {
+    font-family: Helvetica, Arial
+}
+img {
+    display: block;
+    margin-right: auto;
+  }
+  .pull-right * {
+    float: right;    
+}
+.center {
+    margin: auto;
+    background: lime;
+    width: 66%;
+}
+.container {
+    margin:0 auto; 
+    width:960px; 
+ }
